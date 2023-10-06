@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/SAM-PORTFOLIO/static/css/main.b4271aa3.css",
+    "main.js": "/SAM-PORTFOLIO/static/js/main.2e66f7a2.js",
+    "static/js/787.0e7e086b.chunk.js": "/SAM-PORTFOLIO/static/js/787.0e7e086b.chunk.js",
+    "static/media/Ashen.gif": "/SAM-PORTFOLIO/static/media/Ashen.57f2b5b0d1f0e6e942b3.gif",
+    "static/media/port.gif": "/SAM-PORTFOLIO/static/media/port.c3542db566ba16d95c11.gif",
+    "static/media/ashenlogo.png": "/SAM-PORTFOLIO/static/media/ashenlogo.5cac86f5c29e516bfee8.png",
+    "static/media/java.gif": "/SAM-PORTFOLIO/static/media/java.06bc5cd0c42f106b3e59.gif",
+    "index.html": "/SAM-PORTFOLIO/index.html",
+    "main.b4271aa3.css.map": "/SAM-PORTFOLIO/static/css/main.b4271aa3.css.map",
+    "main.2e66f7a2.js.map": "/SAM-PORTFOLIO/static/js/main.2e66f7a2.js.map",
+    "787.0e7e086b.chunk.js.map": "/SAM-PORTFOLIO/static/js/787.0e7e086b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4271aa3.css",
+    "static/js/main.2e66f7a2.js"
+  ]
+}
