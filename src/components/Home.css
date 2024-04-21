@@ -77,6 +77,7 @@ body {
   background-color: var(--bg-color);
   gap: 10rem;
   position: fixed;
+  z-index: 1001;
   top: 0;
 }
 
@@ -474,9 +475,8 @@ body {
   }
 }
 
-@media(max-width:1590px){
-
-  .section-para{
+@media (max-width: 1590px) {
+  .section-para {
     padding: 3rem;
   }
 }
@@ -489,7 +489,6 @@ body {
   .section-para h1 {
     font-size: 4rem;
   }
-  
 }
 
 @media (max-width: 1400px) {
@@ -1146,18 +1145,14 @@ body {
   }
 }
 
-
-@media(max-width:363px){
-
-  .section-para{
+@media (max-width: 363px) {
+  .section-para {
     height: 360px;
   }
 }
 
-@media(max-width:352px){
-
-  .section-languages{
-
+@media (max-width: 352px) {
+  .section-languages {
     height: 650px;
   }
 }
